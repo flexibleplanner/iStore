@@ -63,5 +63,5 @@ This policy is effective as of `2025-01-30`
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at :\
-E-mail: `flexible.planner@gmail.com`\
+E-mail: `ideastore.app@gmail.com`\
 Main developer: `Abdelhay El Hamadi`
